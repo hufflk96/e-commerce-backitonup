@@ -17,7 +17,7 @@
 Clone the repository:
 
 ```sh
-
+https://github.com/hufflk96/e-commerce-backitonup.git
 ```
 
 ## Usage
