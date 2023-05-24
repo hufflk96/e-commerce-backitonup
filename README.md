@@ -22,7 +22,7 @@ Demo Video  [here]()
 
 Email: hufflk96@gmail.com
 
-View my profile – [GitHub](https://github.com/hufflk96)
+View my profile [GitHub](https://github.com/hufflk96)
 
 
 ## License
