@@ -8,9 +8,7 @@ Using Express.js and reformatting in order to use with MySQL and Sequlize.
 
 Clone the repository:
 
-```sh
 https://github.com/hufflk96/e-commerce-backitonup.git
-```
 
 ## Usage
 
